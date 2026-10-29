@@ -1,6 +1,7 @@
 Hi there! 👋 I'm Janani B
 🎓 First-year B.E. Computer Science Engineering student at Chennai Institute of Technology.
 💻 Passionate about programming, problem-solving, and emerging technologies.
+
 🚀 About Me:
 - 🌱 Currently learning C++, Data Structures and Algorithms.
 - 🧩 Practising coding problems on LeetCode.
